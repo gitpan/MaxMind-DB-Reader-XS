@@ -1,0 +1,4 @@
+0.060001 2013-12-17
+
+- First public release. We've been using this at MaxMind, Inc. for a while and
+  it seems to be stable. Bug reports to the contrary are welcome.
