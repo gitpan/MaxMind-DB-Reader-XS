@@ -112,12 +112,13 @@ __DATA__
           'dist_abstract' => 'Fast XS implementation of MaxMind DB reader',
           'test_requires' => {
                                'Test::MaxMind::DB::Common::Util' => '0',
-                               'Test::More' => '0',
                                'Net::Works::Network' => '0',
-                               'autodie' => '0',
                                'Test::Fatal' => '0',
-                               'lib' => '0',
-                               'utf8' => '0'
+                               'utf8' => '0',
+                               'Test::More' => '0',
+                               'Test::Number::Delta' => '0',
+                               'autodie' => '0',
+                               'lib' => '0'
                              },
           'script_files' => [],
           'recursive_test_files' => 1,
@@ -134,22 +135,22 @@ __DATA__
           'module_name' => 'MaxMind::DB::Reader::XS',
           'requires' => {
                           'warnings' => '0',
-                          'MaxMind::DB::Reader::Role::HasMetadata' => '0',
-                          'XSLoader' => '0',
                           'namespace::autoclean' => '0',
-                          'Moo' => '0',
+                          'XSLoader' => '0',
+                          'MaxMind::DB::Reader::Role::HasMetadata' => '0',
                           'MaxMind::DB::Metadata' => '0',
+                          'Moo' => '0',
                           'MaxMind::DB::Reader::Role::Reader' => '0',
                           'MaxMind::DB::Types' => '0',
-                          'strict' => '0',
                           'perl' => '5.010000',
+                          'strict' => '0',
                           'Math::Int128' => '0',
-                          'MaxMind::DB::Reader' => '0.050000'
+                          'MaxMind::DB::Reader' => '0.050002'
                         },
           'recommends' => {},
           'configure_requires' => {
                                     'Module::Build' => '0.3601'
                                   },
-          'dist_version' => '0.060001'
+          'dist_version' => '0.060002'
         };
 

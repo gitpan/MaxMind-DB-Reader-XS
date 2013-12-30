@@ -1,6 +1,6 @@
 package MaxMind::DB::Reader::XS;
 {
-  $MaxMind::DB::Reader::XS::VERSION = '0.060001';
+  $MaxMind::DB::Reader::XS::VERSION = '0.060002';
 }
 BEGIN {
   $MaxMind::DB::Reader::XS::AUTHORITY = 'cpan:TJMATHER';
@@ -14,7 +14,7 @@ use 5.010000;
 
 use Math::Int128 qw( uint128 );
 use MaxMind::DB::Metadata;
-use MaxMind::DB::Reader 0.050000;
+use MaxMind::DB::Reader 0.050002;
 use MaxMind::DB::Types qw( Str Int );
 
 use Moo;
@@ -54,6 +54,8 @@ has _flags => (
     init_arg => undef,
     default  => 0,
 );
+
+sub BUILD { $_[0]->_mmdb }
 
 sub _data_for_address {
     my $self = shift;
@@ -133,7 +135,7 @@ MaxMind::DB::Reader::XS - Fast XS implementation of MaxMind DB reader
 
 =head1 VERSION
 
-version 0.060001
+version 0.060002
 
 =head1 AUTHORS
 

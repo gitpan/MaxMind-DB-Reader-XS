@@ -28,6 +28,7 @@ maxmind-db/test-data/GeoIP2-City-Test-Broken-Double-Format.mmdb
 maxmind-db/test-data/GeoIP2-City-Test.mmdb
 maxmind-db/test-data/MaxMind-DB-no-ipv4-search-tree.mmdb
 maxmind-db/test-data/MaxMind-DB-string-value-entries.mmdb
+maxmind-db/test-data/MaxMind-DB-test-broken-pointers-24.mmdb
 maxmind-db/test-data/MaxMind-DB-test-decoder.mmdb
 maxmind-db/test-data/MaxMind-DB-test-ipv4-24.mmdb
 maxmind-db/test-data/MaxMind-DB-test-ipv4-28.mmdb
@@ -38,12 +39,14 @@ maxmind-db/test-data/MaxMind-DB-test-ipv6-32.mmdb
 maxmind-db/test-data/MaxMind-DB-test-mixed-24.mmdb
 maxmind-db/test-data/MaxMind-DB-test-mixed-28.mmdb
 maxmind-db/test-data/MaxMind-DB-test-mixed-32.mmdb
+maxmind-db/test-data/MaxMind-DB-test-nested.mmdb
 maxmind-db/test-data/README.md
 maxmind-db/test-data/maps-with-pointers.raw
 maxmind-db/test-data/write-test-data
+t/MaxMind/DB/Reader-broken-databases.t
+t/MaxMind/DB/Reader-decoder.t
 t/MaxMind/DB/Reader-no-ipv4-search-tree.t
 t/MaxMind/DB/Reader.t
-t/MaxMind/DB/Reader/Decoder-database.t
 t/author-leak-check.t
 t/lib/Test/MaxMind/DB/Reader.pm
 t/release-cpan-changes.t
