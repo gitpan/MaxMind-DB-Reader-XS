@@ -151,6 +151,6 @@ __DATA__
           'configure_requires' => {
                                     'Module::Build' => '0.3601'
                                   },
-          'dist_version' => '0.060002'
+          'dist_version' => '0.060003'
         };
 

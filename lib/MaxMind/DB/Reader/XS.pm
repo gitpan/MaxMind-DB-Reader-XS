@@ -1,11 +1,5 @@
 package MaxMind::DB::Reader::XS;
-{
-  $MaxMind::DB::Reader::XS::VERSION = '0.060002';
-}
-BEGIN {
-  $MaxMind::DB::Reader::XS::AUTHORITY = 'cpan:TJMATHER';
-}
-
+$MaxMind::DB::Reader::XS::VERSION = '0.060003';
 use strict;
 use warnings;
 use namespace::autoclean;
@@ -135,7 +129,34 @@ MaxMind::DB::Reader::XS - Fast XS implementation of MaxMind DB reader
 
 =head1 VERSION
 
-version 0.060002
+version 0.060003
+
+=head1 SYNOPSIS
+
+    my $reader = MaxMind::DB::Reader->new( file => 'path/to/database.mmdb' );
+
+    my $record = $reader->record_for_address('1.2.3.4');
+
+=head1 DESCRIPTION
+
+Simply installing this module causes L<MaxMind::DB::Reader> to use the XS
+implementation, which is much faster than the Perl implementation.
+
+The XS implementation links against the
+L<libmaxminddb|http://maxmind.github.io/libmaxminddb/> library.
+
+See L<MaxMind::DB::Reader> for API details.
+
+=head1 VERSIONING POLICY
+
+This module uses semantic versioning as described by
+L<http://semver.org/>. Version numbers can be read as X.YYYZZZ, where X is the
+major number, YYY is the minor number, and ZZZ is the patch number.
+
+=head1 SUPPORT
+
+Please report all issues with this code using the GitHub issue tracker at
+L<https://github.com/maxmind/MaxMind-DB-Reader-XS/issues>.
 
 =head1 AUTHORS
 
@@ -157,7 +178,7 @@ Ran Eilam <reilam@maxmind.com>
 
 =head1 COPYRIGHT AND LICENSE
 
-This software is Copyright (c) 2013 by MaxMind, Inc..
+This software is Copyright (c) 2014 by MaxMind, Inc..
 
 This is free software, licensed under:
 

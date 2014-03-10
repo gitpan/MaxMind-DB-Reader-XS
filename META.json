@@ -6,7 +6,7 @@
       "Ran Eilam <reilam@maxmind.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.006, CPAN::Meta::Converter version 2.131560",
+   "generated_by" : "Dist::Zilla version 5.013, CPAN::Meta::Converter version 2.131560",
    "license" : [
       "artistic_2"
    ],
@@ -79,7 +79,11 @@
          "web" : "https://github.com/maxmind/MaxMind-DB-Reader-XS"
       }
    },
-   "version" : "0.060002",
-   "x_authority" : "cpan:TJMATHER"
+   "version" : "0.060003",
+   "x_authority" : "cpan:TJMATHER",
+   "x_contributors" : [
+      "Greg Oschwald <goschwald@maxmind.com>",
+      "Olaf Alders <oalders@maxmind.com>"
+   ]
 }
 

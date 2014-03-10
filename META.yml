@@ -17,7 +17,7 @@ build_requires:
 configure_requires:
   Module::Build: 0.3601
 dynamic_config: 0
-generated_by: 'Dist::Zilla version 5.006, CPAN::Meta::Converter version 2.131560'
+generated_by: 'Dist::Zilla version 5.013, CPAN::Meta::Converter version 2.131560'
 license: artistic_2
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -42,5 +42,8 @@ requires:
 resources:
   bugtracker: https://github.com/maxmind/MaxMind-DB-Reader-XS/issues
   repository: git://github.com/maxmind/MaxMind-DB-Reader-XS.git
-version: 0.060002
+version: 0.060003
 x_authority: cpan:TJMATHER
+x_contributors:
+  - 'Greg Oschwald <goschwald@maxmind.com>'
+  - 'Olaf Alders <oalders@maxmind.com>'
