@@ -1,5 +1,5 @@
 package MaxMind::DB::Reader::XS;
-$MaxMind::DB::Reader::XS::VERSION = '0.060003';
+$MaxMind::DB::Reader::XS::VERSION = '0.060004';
 use strict;
 use warnings;
 use namespace::autoclean;
@@ -129,7 +129,7 @@ MaxMind::DB::Reader::XS - Fast XS implementation of MaxMind DB reader
 
 =head1 VERSION
 
-version 0.060003
+version 0.060004
 
 =head1 SYNOPSIS
 
