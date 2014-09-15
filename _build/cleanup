@@ -1,0 +1,10 @@
+do{ my $x = {
+  'lib/MaxMind/DB/Reader/XS.c' => 1,
+  'blib/arch/auto/MaxMind/DB/Reader/XS/XS.bs' => 1,
+  'c/perl_math_int128.o' => 1,
+  'blib/arch/auto/MaxMind/DB/Reader/XS/XS.so' => 1,
+  'lib/MaxMind/DB/Reader/XS.o' => 1,
+  'blib' => 1,
+  'c/perl_math_int64.o' => 1
+};
+$x; }

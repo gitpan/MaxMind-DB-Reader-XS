@@ -118,13 +118,14 @@ __DATA__
                                'Test::More' => '0',
                                'Test::Number::Delta' => '0',
                                'autodie' => '0',
+                               'Path::Class' => '0',
                                'lib' => '0'
                              },
           'script_files' => [],
           'recursive_test_files' => 1,
           'license' => 'artistic_2',
           'build_requires' => {
-                                'Module::Build' => '0.3601'
+                                'Module::Build' => '0.28'
                               },
           'dist_name' => 'MaxMind-DB-Reader-XS',
           'dist_author' => [
@@ -145,12 +146,12 @@ __DATA__
                           'perl' => '5.010000',
                           'strict' => '0',
                           'Math::Int128' => '0',
-                          'MaxMind::DB::Reader' => '0.050002'
+                          'MaxMind::DB::Reader' => '0.060001'
                         },
           'recommends' => {},
           'configure_requires' => {
-                                    'Module::Build' => '0.3601'
+                                    'Module::Build' => '0.28'
                                   },
-          'dist_version' => '0.060004'
+          'dist_version' => '0.070000'
         };
 

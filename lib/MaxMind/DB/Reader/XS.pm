@@ -1,5 +1,5 @@
 package MaxMind::DB::Reader::XS;
-$MaxMind::DB::Reader::XS::VERSION = '0.060004';
+$MaxMind::DB::Reader::XS::VERSION = '0.070000';
 use strict;
 use warnings;
 use namespace::autoclean;
@@ -8,8 +8,8 @@ use 5.010000;
 
 use Math::Int128 qw( uint128 );
 use MaxMind::DB::Metadata;
-use MaxMind::DB::Reader 0.050002;
-use MaxMind::DB::Types qw( Str Int );
+use MaxMind::DB::Reader 0.060001;
+use MaxMind::DB::Types qw( Int );
 
 use Moo;
 
@@ -24,12 +24,6 @@ XSLoader::load(
         && ${ $MaxMind::DB::Reader::XS::{VERSION} }
     ? ${ $MaxMind::DB::Reader::XS::{VERSION} }
     : '42'
-);
-
-has file => (
-    is       => 'ro',
-    isa      => Str,
-    required => 1,
 );
 
 has _mmdb => (
@@ -123,13 +117,15 @@ __END__
 
 =pod
 
+=encoding UTF-8
+
 =head1 NAME
 
 MaxMind::DB::Reader::XS - Fast XS implementation of MaxMind DB reader
 
 =head1 VERSION
 
-version 0.060004
+version 0.070000
 
 =head1 SYNOPSIS
 

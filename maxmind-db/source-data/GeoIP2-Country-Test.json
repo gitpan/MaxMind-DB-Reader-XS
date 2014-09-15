@@ -29,11 +29,6 @@
                "zh-CN" : "日本"
             }
          },
-         "location" : {
-            "latitude" : "35.68536",
-            "longitude" : "139.75309",
-            "time_zone" : "Asia/Tokyo"
-         },
          "registered_country" : {
             "geoname_id" : 1861060,
             "iso_code" : "JP",
@@ -79,11 +74,6 @@
                "ru" : "Южная Корея",
                "zh-CN" : "韩国"
             }
-         },
-         "location" : {
-            "latitude" : "37",
-            "longitude" : "127.5",
-            "time_zone" : "Asia/Seoul"
          },
          "registered_country" : {
             "geoname_id" : 1835841,
@@ -131,11 +121,6 @@
                "zh-CN" : "韩国"
             }
          },
-         "location" : {
-            "latitude" : "37",
-            "longitude" : "127.5",
-            "time_zone" : "Asia/Seoul"
-         },
          "registered_country" : {
             "geoname_id" : 1835841,
             "iso_code" : "KR",
@@ -181,11 +166,6 @@
                "ru" : "Тайвань",
                "zh-CN" : "台湾"
             }
-         },
-         "location" : {
-            "latitude" : "24",
-            "longitude" : "121",
-            "time_zone" : "Asia/Taipei"
          },
          "registered_country" : {
             "geoname_id" : 1668284,
@@ -233,11 +213,6 @@
                "zh-CN" : "日本"
             }
          },
-         "location" : {
-            "latitude" : "35.68536",
-            "longitude" : "139.75309",
-            "time_zone" : "Asia/Tokyo"
-         },
          "registered_country" : {
             "geoname_id" : 1861060,
             "iso_code" : "JP",
@@ -283,10 +258,6 @@
                "ru" : "Китай",
                "zh-CN" : "中国"
             }
-         },
-         "location" : {
-            "latitude" : "35",
-            "longitude" : "105"
          },
          "registered_country" : {
             "geoname_id" : 1814991,
@@ -334,10 +305,6 @@
                "zh-CN" : "中国"
             }
          },
-         "location" : {
-            "latitude" : "35",
-            "longitude" : "105"
-         },
          "registered_country" : {
             "geoname_id" : 1814991,
             "iso_code" : "CN",
@@ -383,10 +350,6 @@
                "ru" : "Китай",
                "zh-CN" : "中国"
             }
-         },
-         "location" : {
-            "latitude" : "35",
-            "longitude" : "105"
          },
          "registered_country" : {
             "geoname_id" : 1814991,
@@ -434,10 +397,6 @@
                "zh-CN" : "中国"
             }
          },
-         "location" : {
-            "latitude" : "35",
-            "longitude" : "105"
-         },
          "registered_country" : {
             "geoname_id" : 1814991,
             "iso_code" : "CN",
@@ -483,11 +442,6 @@
                "ru" : "Япония",
                "zh-CN" : "日本"
             }
-         },
-         "location" : {
-            "latitude" : "35.68536",
-            "longitude" : "139.75309",
-            "time_zone" : "Asia/Tokyo"
          },
          "registered_country" : {
             "geoname_id" : 1861060,
@@ -535,11 +489,6 @@
                "zh-CN" : "日本"
             }
          },
-         "location" : {
-            "latitude" : "35.68536",
-            "longitude" : "139.75309",
-            "time_zone" : "Asia/Tokyo"
-         },
          "registered_country" : {
             "geoname_id" : 1861060,
             "iso_code" : "JP",
@@ -585,11 +534,6 @@
                "ru" : "Япония",
                "zh-CN" : "日本"
             }
-         },
-         "location" : {
-            "latitude" : "35.68536",
-            "longitude" : "139.75309",
-            "time_zone" : "Asia/Tokyo"
          },
          "registered_country" : {
             "geoname_id" : 1861060,
@@ -637,11 +581,6 @@
                "zh-CN" : "韩国"
             }
          },
-         "location" : {
-            "latitude" : "37",
-            "longitude" : "127.5",
-            "time_zone" : "Asia/Seoul"
-         },
          "registered_country" : {
             "geoname_id" : 1835841,
             "iso_code" : "KR",
@@ -687,11 +626,6 @@
                "ru" : "Япония",
                "zh-CN" : "日本"
             }
-         },
-         "location" : {
-            "latitude" : "35.68536",
-            "longitude" : "139.75309",
-            "time_zone" : "Asia/Tokyo"
          },
          "registered_country" : {
             "geoname_id" : 1861060,
@@ -739,11 +673,6 @@
                "zh-CN" : "韩国"
             }
          },
-         "location" : {
-            "latitude" : "37",
-            "longitude" : "127.5",
-            "time_zone" : "Asia/Seoul"
-         },
          "registered_country" : {
             "geoname_id" : 1835841,
             "iso_code" : "KR",
@@ -789,11 +718,6 @@
                "ru" : "Тайвань",
                "zh-CN" : "台湾"
             }
-         },
-         "location" : {
-            "latitude" : "24",
-            "longitude" : "121",
-            "time_zone" : "Asia/Taipei"
          },
          "registered_country" : {
             "geoname_id" : 1668284,
@@ -841,11 +765,6 @@
                "zh-CN" : "韩国"
             }
          },
-         "location" : {
-            "latitude" : "37",
-            "longitude" : "127.5",
-            "time_zone" : "Asia/Seoul"
-         },
          "registered_country" : {
             "geoname_id" : 1835841,
             "iso_code" : "KR",
@@ -891,11 +810,6 @@
                "ru" : "Япония",
                "zh-CN" : "日本"
             }
-         },
-         "location" : {
-            "latitude" : "35.68536",
-            "longitude" : "139.75309",
-            "time_zone" : "Asia/Tokyo"
          },
          "registered_country" : {
             "geoname_id" : 1861060,
@@ -943,11 +857,6 @@
                "zh-CN" : "日本"
             }
          },
-         "location" : {
-            "latitude" : "35.68536",
-            "longitude" : "139.75309",
-            "time_zone" : "Asia/Tokyo"
-         },
          "registered_country" : {
             "geoname_id" : 1861060,
             "iso_code" : "JP",
@@ -993,11 +902,6 @@
                "ru" : "Япония",
                "zh-CN" : "日本"
             }
-         },
-         "location" : {
-            "latitude" : "35.68536",
-            "longitude" : "139.75309",
-            "time_zone" : "Asia/Tokyo"
          },
          "registered_country" : {
             "geoname_id" : 1861060,
@@ -1045,11 +949,6 @@
                "zh-CN" : "韩国"
             }
          },
-         "location" : {
-            "latitude" : "37",
-            "longitude" : "127.5",
-            "time_zone" : "Asia/Seoul"
-         },
          "registered_country" : {
             "geoname_id" : 1835841,
             "iso_code" : "KR",
@@ -1095,11 +994,6 @@
                "ru" : "Южная Корея",
                "zh-CN" : "韩国"
             }
-         },
-         "location" : {
-            "latitude" : "37",
-            "longitude" : "127.5",
-            "time_zone" : "Asia/Seoul"
          },
          "registered_country" : {
             "geoname_id" : 1835841,
@@ -1147,11 +1041,6 @@
                "zh-CN" : "日本"
             }
          },
-         "location" : {
-            "latitude" : "35.68536",
-            "longitude" : "139.75309",
-            "time_zone" : "Asia/Tokyo"
-         },
          "registered_country" : {
             "geoname_id" : 1861060,
             "iso_code" : "JP",
@@ -1197,11 +1086,6 @@
                "ru" : "Япония",
                "zh-CN" : "日本"
             }
-         },
-         "location" : {
-            "latitude" : "35.68536",
-            "longitude" : "139.75309",
-            "time_zone" : "Asia/Tokyo"
          },
          "registered_country" : {
             "geoname_id" : 1861060,
@@ -1249,11 +1133,6 @@
                "zh-CN" : "韩国"
             }
          },
-         "location" : {
-            "latitude" : "37",
-            "longitude" : "127.5",
-            "time_zone" : "Asia/Seoul"
-         },
          "registered_country" : {
             "geoname_id" : 1835841,
             "iso_code" : "KR",
@@ -1299,11 +1178,6 @@
                "ru" : "Гонконг",
                "zh-CN" : "香港"
             }
-         },
-         "location" : {
-            "latitude" : "22.25",
-            "longitude" : "114.16667",
-            "time_zone" : "Asia/Hong_Kong"
          },
          "registered_country" : {
             "geoname_id" : 1819730,
@@ -1351,11 +1225,6 @@
                "zh-CN" : "日本"
             }
          },
-         "location" : {
-            "latitude" : "35.68536",
-            "longitude" : "139.75309",
-            "time_zone" : "Asia/Tokyo"
-         },
          "registered_country" : {
             "geoname_id" : 1861060,
             "iso_code" : "JP",
@@ -1401,11 +1270,6 @@
                "ru" : "Япония",
                "zh-CN" : "日本"
             }
-         },
-         "location" : {
-            "latitude" : "35.68536",
-            "longitude" : "139.75309",
-            "time_zone" : "Asia/Tokyo"
          },
          "registered_country" : {
             "geoname_id" : 1861060,
@@ -1453,11 +1317,6 @@
                "zh-CN" : "日本"
             }
          },
-         "location" : {
-            "latitude" : "35.68536",
-            "longitude" : "139.75309",
-            "time_zone" : "Asia/Tokyo"
-         },
          "registered_country" : {
             "geoname_id" : 1861060,
             "iso_code" : "JP",
@@ -1503,11 +1362,6 @@
                "ru" : "Норвегия",
                "zh-CN" : "挪威"
             }
-         },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "10",
-            "time_zone" : "Europe/Oslo"
          },
          "registered_country" : {
             "geoname_id" : 3144096,
@@ -1555,11 +1409,6 @@
                "zh-CN" : "以色列"
             }
          },
-         "location" : {
-            "latitude" : "31.5",
-            "longitude" : "34.75",
-            "time_zone" : "Asia/Jerusalem"
-         },
          "registered_country" : {
             "geoname_id" : 294640,
             "iso_code" : "IL",
@@ -1605,11 +1454,6 @@
                "ru" : "Франция",
                "zh-CN" : "法国"
             }
-         },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "2",
-            "time_zone" : "Europe/Paris"
          },
          "registered_country" : {
             "geoname_id" : 3017382,
@@ -1657,11 +1501,6 @@
                "zh-CN" : "瑞士"
             }
          },
-         "location" : {
-            "latitude" : "47.00016",
-            "longitude" : "8.01427",
-            "time_zone" : "Europe/Zurich"
-         },
          "registered_country" : {
             "geoname_id" : 2658434,
             "iso_code" : "CH",
@@ -1707,11 +1546,6 @@
                "ru" : "Швеция",
                "zh-CN" : "瑞典"
             }
-         },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "15",
-            "time_zone" : "Europe/Stockholm"
          },
          "registered_country" : {
             "geoname_id" : 2661886,
@@ -1759,11 +1593,6 @@
                "zh-CN" : "巴林"
             }
          },
-         "location" : {
-            "latitude" : "26",
-            "longitude" : "50.5",
-            "time_zone" : "Asia/Bahrain"
-         },
          "registered_country" : {
             "geoname_id" : 290291,
             "iso_code" : "BH",
@@ -1809,10 +1638,6 @@
                "ru" : "Россия",
                "zh-CN" : "俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
          },
          "registered_country" : {
             "geoname_id" : 2017370,
@@ -1860,11 +1685,6 @@
                "zh-CN" : "波兰"
             }
          },
-         "location" : {
-            "latitude" : "52",
-            "longitude" : "20",
-            "time_zone" : "Europe/Warsaw"
-         },
          "registered_country" : {
             "geoname_id" : 798544,
             "iso_code" : "PL",
@@ -1910,11 +1730,6 @@
                "ru" : "Норвегия",
                "zh-CN" : "挪威"
             }
-         },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "10",
-            "time_zone" : "Europe/Oslo"
          },
          "registered_country" : {
             "geoname_id" : 3144096,
@@ -1962,11 +1777,6 @@
                "zh-CN" : "德国"
             }
          },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
-         },
          "registered_country" : {
             "geoname_id" : 2921044,
             "iso_code" : "DE",
@@ -2012,11 +1822,6 @@
                "ru" : "Италия",
                "zh-CN" : "意大利"
             }
-         },
-         "location" : {
-            "latitude" : "42.83333",
-            "longitude" : "12.83333",
-            "time_zone" : "Europe/Rome"
          },
          "registered_country" : {
             "geoname_id" : 3175395,
@@ -2064,11 +1869,6 @@
                "zh-CN" : "芬兰"
             }
          },
-         "location" : {
-            "latitude" : "64",
-            "longitude" : "26",
-            "time_zone" : "Europe/Helsinki"
-         },
          "registered_country" : {
             "geoname_id" : 660013,
             "iso_code" : "FI",
@@ -2114,11 +1914,6 @@
                "ru" : "Беларусь",
                "zh-CN" : "白俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "53",
-            "longitude" : "28",
-            "time_zone" : "Europe/Minsk"
          },
          "registered_country" : {
             "geoname_id" : 630336,
@@ -2166,11 +1961,6 @@
                "zh-CN" : "捷克共和国"
             }
          },
-         "location" : {
-            "latitude" : "49.75",
-            "longitude" : "15",
-            "time_zone" : "Europe/Prague"
-         },
          "registered_country" : {
             "geoname_id" : 3077311,
             "iso_code" : "CZ",
@@ -2216,11 +2006,6 @@
                "ru" : "Иран",
                "zh-CN" : "伊朗伊斯兰共和国"
             }
-         },
-         "location" : {
-            "latitude" : "32",
-            "longitude" : "53",
-            "time_zone" : "Asia/Tehran"
          },
          "registered_country" : {
             "geoname_id" : 130758,
@@ -2268,10 +2053,6 @@
                "zh-CN" : "乌克兰"
             }
          },
-         "location" : {
-            "latitude" : "49",
-            "longitude" : "32"
-         },
          "registered_country" : {
             "geoname_id" : 690791,
             "iso_code" : "UA",
@@ -2317,11 +2098,6 @@
                "ru" : "Франция",
                "zh-CN" : "法国"
             }
-         },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "2",
-            "time_zone" : "Europe/Paris"
          },
          "registered_country" : {
             "geoname_id" : 3017382,
@@ -2369,11 +2145,6 @@
                "zh-CN" : "伊朗伊斯兰共和国"
             }
          },
-         "location" : {
-            "latitude" : "32",
-            "longitude" : "53",
-            "time_zone" : "Asia/Tehran"
-         },
          "registered_country" : {
             "geoname_id" : 130758,
             "iso_code" : "IR",
@@ -2419,11 +2190,6 @@
                "ru" : "Великобритания",
                "zh-CN" : "英国"
             }
-         },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
          },
          "registered_country" : {
             "geoname_id" : 2635167,
@@ -2471,11 +2237,6 @@
                "zh-CN" : "匈牙利"
             }
          },
-         "location" : {
-            "latitude" : "47",
-            "longitude" : "20",
-            "time_zone" : "Europe/Budapest"
-         },
          "registered_country" : {
             "geoname_id" : 719819,
             "iso_code" : "HU",
@@ -2521,11 +2282,6 @@
                "ru" : "Швеция",
                "zh-CN" : "瑞典"
             }
-         },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "15",
-            "time_zone" : "Europe/Stockholm"
          },
          "registered_country" : {
             "geoname_id" : 2661886,
@@ -2573,11 +2329,6 @@
                "zh-CN" : "德国"
             }
          },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
-         },
          "registered_country" : {
             "geoname_id" : 2921044,
             "iso_code" : "DE",
@@ -2624,11 +2375,6 @@
                "zh-CN" : "芬兰"
             }
          },
-         "location" : {
-            "latitude" : "64",
-            "longitude" : "26",
-            "time_zone" : "Europe/Helsinki"
-         },
          "registered_country" : {
             "geoname_id" : 660013,
             "iso_code" : "FI",
@@ -2674,11 +2420,6 @@
                "ru" : "Германия",
                "zh-CN" : "德国"
             }
-         },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
          },
          "registered_country" : {
             "geoname_id" : 2921044,
@@ -2749,11 +2490,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 2635167,
             "iso_code" : "GB",
@@ -2799,11 +2535,6 @@
                "ru" : "Франция",
                "zh-CN" : "法国"
             }
-         },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "2",
-            "time_zone" : "Europe/Paris"
          },
          "registered_country" : {
             "geoname_id" : 3017382,
@@ -2851,10 +2582,6 @@
                "zh-CN" : "西班牙"
             }
          },
-         "location" : {
-            "latitude" : "40",
-            "longitude" : "-4"
-         },
          "registered_country" : {
             "geoname_id" : 2510769,
             "iso_code" : "ES",
@@ -2900,11 +2627,6 @@
                "ru" : "Германия",
                "zh-CN" : "德国"
             }
-         },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
          },
          "registered_country" : {
             "geoname_id" : 2921044,
@@ -2952,11 +2674,6 @@
                "zh-CN" : "法国"
             }
          },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "2",
-            "time_zone" : "Europe/Paris"
-         },
          "registered_country" : {
             "geoname_id" : 3017382,
             "iso_code" : "FR",
@@ -3002,11 +2719,6 @@
                "ru" : "Великобритания",
                "zh-CN" : "英国"
             }
-         },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
          },
          "registered_country" : {
             "geoname_id" : 2635167,
@@ -3054,11 +2766,6 @@
                "zh-CN" : "德国"
             }
          },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
-         },
          "registered_country" : {
             "geoname_id" : 2921044,
             "iso_code" : "DE",
@@ -3104,11 +2811,6 @@
                "ru" : "Болгария",
                "zh-CN" : "保加利亚"
             }
-         },
-         "location" : {
-            "latitude" : "43",
-            "longitude" : "25",
-            "time_zone" : "Europe/Sofia"
          },
          "registered_country" : {
             "geoname_id" : 732800,
@@ -3156,11 +2858,6 @@
                "zh-CN" : "德国"
             }
          },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
-         },
          "registered_country" : {
             "geoname_id" : 2921044,
             "iso_code" : "DE",
@@ -3206,11 +2903,6 @@
                "ru" : "Швейцария",
                "zh-CN" : "瑞士"
             }
-         },
-         "location" : {
-            "latitude" : "47.00016",
-            "longitude" : "8.01427",
-            "time_zone" : "Europe/Zurich"
          },
          "registered_country" : {
             "geoname_id" : 2658434,
@@ -3258,11 +2950,6 @@
                "zh-CN" : "伊朗伊斯兰共和国"
             }
          },
-         "location" : {
-            "latitude" : "32",
-            "longitude" : "53",
-            "time_zone" : "Asia/Tehran"
-         },
          "registered_country" : {
             "geoname_id" : 130758,
             "iso_code" : "IR",
@@ -3308,11 +2995,6 @@
                "ru" : "Франция",
                "zh-CN" : "法国"
             }
-         },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "2",
-            "time_zone" : "Europe/Paris"
          },
          "registered_country" : {
             "geoname_id" : 3017382,
@@ -3360,11 +3042,6 @@
                "zh-CN" : "罗马尼亚"
             }
          },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "25",
-            "time_zone" : "Europe/Bucharest"
-         },
          "registered_country" : {
             "geoname_id" : 798549,
             "iso_code" : "RO",
@@ -3410,10 +3087,6 @@
                "ru" : "Россия",
                "zh-CN" : "俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
          },
          "registered_country" : {
             "geoname_id" : 2017370,
@@ -3461,10 +3134,6 @@
                "zh-CN" : "俄罗斯"
             }
          },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
-         },
          "registered_country" : {
             "geoname_id" : 2017370,
             "iso_code" : "RU",
@@ -3510,11 +3179,6 @@
                "ru" : "Норвегия",
                "zh-CN" : "挪威"
             }
-         },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "10",
-            "time_zone" : "Europe/Oslo"
          },
          "registered_country" : {
             "geoname_id" : 3144096,
@@ -3562,11 +3226,6 @@
                "zh-CN" : "瑞典"
             }
          },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "15",
-            "time_zone" : "Europe/Stockholm"
-         },
          "registered_country" : {
             "geoname_id" : 2661886,
             "iso_code" : "SE",
@@ -3612,11 +3271,6 @@
                "ru" : "Бельгия",
                "zh-CN" : "比利时"
             }
-         },
-         "location" : {
-            "latitude" : "50.83333",
-            "longitude" : "4",
-            "time_zone" : "Europe/Brussels"
          },
          "registered_country" : {
             "geoname_id" : 2802361,
@@ -3664,11 +3318,6 @@
                "zh-CN" : "土耳其"
             }
          },
-         "location" : {
-            "latitude" : "39.05901",
-            "longitude" : "34.91155",
-            "time_zone" : "Europe/Istanbul"
-         },
          "registered_country" : {
             "geoname_id" : 298795,
             "iso_code" : "TR",
@@ -3714,11 +3363,6 @@
                "ru" : "Турция",
                "zh-CN" : "土耳其"
             }
-         },
-         "location" : {
-            "latitude" : "39.05901",
-            "longitude" : "34.91155",
-            "time_zone" : "Europe/Istanbul"
          },
          "registered_country" : {
             "geoname_id" : 298795,
@@ -3766,11 +3410,6 @@
                "zh-CN" : "德国"
             }
          },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
-         },
          "registered_country" : {
             "geoname_id" : 2921044,
             "iso_code" : "DE",
@@ -3816,11 +3455,6 @@
                "ru" : "Великобритания",
                "zh-CN" : "英国"
             }
-         },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
          },
          "registered_country" : {
             "geoname_id" : 2635167,
@@ -3868,11 +3502,6 @@
                "zh-CN" : "奥地利"
             }
          },
-         "location" : {
-            "latitude" : "47.33333",
-            "longitude" : "13.33333",
-            "time_zone" : "Europe/Vienna"
-         },
          "registered_country" : {
             "geoname_id" : 2782113,
             "iso_code" : "AT",
@@ -3918,10 +3547,6 @@
                "ru" : "Россия",
                "zh-CN" : "俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
          },
          "registered_country" : {
             "geoname_id" : 2017370,
@@ -3969,11 +3594,6 @@
                "zh-CN" : "德国"
             }
          },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
-         },
          "registered_country" : {
             "geoname_id" : 2921044,
             "iso_code" : "DE",
@@ -4019,11 +3639,6 @@
                "ru" : "Румыния",
                "zh-CN" : "罗马尼亚"
             }
-         },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "25",
-            "time_zone" : "Europe/Bucharest"
          },
          "registered_country" : {
             "geoname_id" : 798549,
@@ -4071,10 +3686,6 @@
                "zh-CN" : "俄罗斯"
             }
          },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
-         },
          "registered_country" : {
             "geoname_id" : 2017370,
             "iso_code" : "RU",
@@ -4120,10 +3731,6 @@
                "ru" : "Россия",
                "zh-CN" : "俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
          },
          "registered_country" : {
             "geoname_id" : 2017370,
@@ -4171,10 +3778,6 @@
                "zh-CN" : "俄罗斯"
             }
          },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
-         },
          "registered_country" : {
             "geoname_id" : 2017370,
             "iso_code" : "RU",
@@ -4220,11 +3823,6 @@
                "ru" : "Турция",
                "zh-CN" : "土耳其"
             }
-         },
-         "location" : {
-            "latitude" : "39.05901",
-            "longitude" : "34.91155",
-            "time_zone" : "Europe/Istanbul"
          },
          "registered_country" : {
             "geoname_id" : 298795,
@@ -4272,10 +3870,6 @@
                "zh-CN" : "俄罗斯"
             }
          },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
-         },
          "registered_country" : {
             "geoname_id" : 2017370,
             "iso_code" : "RU",
@@ -4321,10 +3915,6 @@
                "ru" : "Украина",
                "zh-CN" : "乌克兰"
             }
-         },
-         "location" : {
-            "latitude" : "49",
-            "longitude" : "32"
          },
          "registered_country" : {
             "geoname_id" : 690791,
@@ -4372,11 +3962,6 @@
                "zh-CN" : "阿尔巴尼亚"
             }
          },
-         "location" : {
-            "latitude" : "41",
-            "longitude" : "20",
-            "time_zone" : "Europe/Tirane"
-         },
          "registered_country" : {
             "geoname_id" : 783754,
             "iso_code" : "AL",
@@ -4422,11 +4007,6 @@
                "ru" : "Великобритания",
                "zh-CN" : "英国"
             }
-         },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
          },
          "registered_country" : {
             "geoname_id" : 2635167,
@@ -4474,11 +4054,6 @@
                "zh-CN" : "瑞典"
             }
          },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "15",
-            "time_zone" : "Europe/Stockholm"
-         },
          "registered_country" : {
             "geoname_id" : 2661886,
             "iso_code" : "SE",
@@ -4524,10 +4099,6 @@
                "ru" : "Россия",
                "zh-CN" : "俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
          },
          "registered_country" : {
             "geoname_id" : 2017370,
@@ -4575,10 +4146,6 @@
                "zh-CN" : "俄罗斯"
             }
          },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
-         },
          "registered_country" : {
             "geoname_id" : 2017370,
             "iso_code" : "RU",
@@ -4624,11 +4191,6 @@
                "ru" : "Израиль",
                "zh-CN" : "以色列"
             }
-         },
-         "location" : {
-            "latitude" : "31.5",
-            "longitude" : "34.75",
-            "time_zone" : "Asia/Jerusalem"
          },
          "registered_country" : {
             "geoname_id" : 294640,
@@ -4676,10 +4238,6 @@
                "zh-CN" : "俄罗斯"
             }
          },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
-         },
          "registered_country" : {
             "geoname_id" : 2017370,
             "iso_code" : "RU",
@@ -4725,11 +4283,6 @@
                "ru" : "Ливан",
                "zh-CN" : "黎巴嫩"
             }
-         },
-         "location" : {
-            "latitude" : "33.83333",
-            "longitude" : "35.83333",
-            "time_zone" : "Asia/Beirut"
          },
          "registered_country" : {
             "geoname_id" : 272103,
@@ -4777,11 +4330,6 @@
                "zh-CN" : "伊朗伊斯兰共和国"
             }
          },
-         "location" : {
-            "latitude" : "32",
-            "longitude" : "53",
-            "time_zone" : "Asia/Tehran"
-         },
          "registered_country" : {
             "geoname_id" : 130758,
             "iso_code" : "IR",
@@ -4827,11 +4375,6 @@
                "ru" : "Турция",
                "zh-CN" : "土耳其"
             }
-         },
-         "location" : {
-            "latitude" : "39.05901",
-            "longitude" : "34.91155",
-            "time_zone" : "Europe/Istanbul"
          },
          "registered_country" : {
             "geoname_id" : 298795,
@@ -4879,11 +4422,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 2635167,
             "iso_code" : "GB",
@@ -4929,11 +4467,6 @@
                "ru" : "Иран",
                "zh-CN" : "伊朗伊斯兰共和国"
             }
-         },
-         "location" : {
-            "latitude" : "32",
-            "longitude" : "53",
-            "time_zone" : "Asia/Tehran"
          },
          "registered_country" : {
             "geoname_id" : 130758,
@@ -4981,11 +4514,6 @@
                "zh-CN" : "法国"
             }
          },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "2",
-            "time_zone" : "Europe/Paris"
-         },
          "registered_country" : {
             "geoname_id" : 3017382,
             "iso_code" : "FR",
@@ -5031,11 +4559,6 @@
                "ru" : "Нидерланды",
                "zh-CN" : "荷兰"
             }
-         },
-         "location" : {
-            "latitude" : "52.5",
-            "longitude" : "5.75",
-            "time_zone" : "Europe/Amsterdam"
          },
          "registered_country" : {
             "geoname_id" : 2750405,
@@ -5083,11 +4606,6 @@
                "zh-CN" : "科威特"
             }
          },
-         "location" : {
-            "latitude" : "29.5",
-            "longitude" : "47.75",
-            "time_zone" : "Asia/Kuwait"
-         },
          "registered_country" : {
             "geoname_id" : 285570,
             "iso_code" : "KW",
@@ -5133,11 +4651,6 @@
                "ru" : "Швейцария",
                "zh-CN" : "瑞士"
             }
-         },
-         "location" : {
-            "latitude" : "47.00016",
-            "longitude" : "8.01427",
-            "time_zone" : "Europe/Zurich"
          },
          "registered_country" : {
             "geoname_id" : 2658434,
@@ -5185,11 +4698,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 2635167,
             "iso_code" : "GB",
@@ -5235,11 +4743,6 @@
                "ru" : "Польша",
                "zh-CN" : "波兰"
             }
-         },
-         "location" : {
-            "latitude" : "52",
-            "longitude" : "20",
-            "time_zone" : "Europe/Warsaw"
          },
          "registered_country" : {
             "geoname_id" : 798544,
@@ -5287,11 +4790,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 2635167,
             "iso_code" : "GB",
@@ -5337,11 +4835,6 @@
                "ru" : "Нидерланды",
                "zh-CN" : "荷兰"
             }
-         },
-         "location" : {
-            "latitude" : "52.5",
-            "longitude" : "5.75",
-            "time_zone" : "Europe/Amsterdam"
          },
          "registered_country" : {
             "geoname_id" : 2750405,
@@ -5389,11 +4882,6 @@
                "zh-CN" : "奥地利"
             }
          },
-         "location" : {
-            "latitude" : "47.33333",
-            "longitude" : "13.33333",
-            "time_zone" : "Europe/Vienna"
-         },
          "registered_country" : {
             "geoname_id" : 2782113,
             "iso_code" : "AT",
@@ -5439,11 +4927,6 @@
                "ru" : "Саудовская Аравия",
                "zh-CN" : "沙特阿拉伯"
             }
-         },
-         "location" : {
-            "latitude" : "25",
-            "longitude" : "45",
-            "time_zone" : "Asia/Riyadh"
          },
          "registered_country" : {
             "geoname_id" : 102358,
@@ -5491,11 +4974,6 @@
                "zh-CN" : "德国"
             }
          },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
-         },
          "registered_country" : {
             "geoname_id" : 2921044,
             "iso_code" : "DE",
@@ -5541,11 +5019,6 @@
                "ru" : "Германия",
                "zh-CN" : "德国"
             }
-         },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
          },
          "registered_country" : {
             "geoname_id" : 2921044,
@@ -5593,11 +5066,6 @@
                "zh-CN" : "意大利"
             }
          },
-         "location" : {
-            "latitude" : "42.83333",
-            "longitude" : "12.83333",
-            "time_zone" : "Europe/Rome"
-         },
          "registered_country" : {
             "geoname_id" : 3175395,
             "iso_code" : "IT",
@@ -5643,11 +5111,6 @@
                "ru" : "Беларусь",
                "zh-CN" : "白俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "53",
-            "longitude" : "28",
-            "time_zone" : "Europe/Minsk"
          },
          "registered_country" : {
             "geoname_id" : 630336,
@@ -5695,11 +5158,6 @@
                "zh-CN" : "挪威"
             }
          },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "10",
-            "time_zone" : "Europe/Oslo"
-         },
          "registered_country" : {
             "geoname_id" : 3144096,
             "iso_code" : "NO",
@@ -5745,11 +5203,6 @@
                "ru" : "Италия",
                "zh-CN" : "意大利"
             }
-         },
-         "location" : {
-            "latitude" : "42.83333",
-            "longitude" : "12.83333",
-            "time_zone" : "Europe/Rome"
          },
          "registered_country" : {
             "geoname_id" : 3175395,
@@ -5797,11 +5250,6 @@
                "zh-CN" : "法国"
             }
          },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "2",
-            "time_zone" : "Europe/Paris"
-         },
          "registered_country" : {
             "geoname_id" : 3017382,
             "iso_code" : "FR",
@@ -5847,11 +5295,6 @@
                "ru" : "Швеция",
                "zh-CN" : "瑞典"
             }
-         },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "15",
-            "time_zone" : "Europe/Stockholm"
          },
          "registered_country" : {
             "geoname_id" : 2661886,
@@ -5899,11 +5342,6 @@
                "zh-CN" : "德国"
             }
          },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
-         },
          "registered_country" : {
             "geoname_id" : 2921044,
             "iso_code" : "DE",
@@ -5949,10 +5387,6 @@
                "ru" : "Россия",
                "zh-CN" : "俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
          },
          "registered_country" : {
             "geoname_id" : 2017370,
@@ -6000,11 +5434,6 @@
                "zh-CN" : "荷兰"
             }
          },
-         "location" : {
-            "latitude" : "52.5",
-            "longitude" : "5.75",
-            "time_zone" : "Europe/Amsterdam"
-         },
          "registered_country" : {
             "geoname_id" : 2750405,
             "iso_code" : "NL",
@@ -6050,11 +5479,6 @@
                "ru" : "Франция",
                "zh-CN" : "法国"
             }
-         },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "2",
-            "time_zone" : "Europe/Paris"
          },
          "registered_country" : {
             "geoname_id" : 3017382,
@@ -6102,11 +5526,6 @@
                "zh-CN" : "塞尔维亚"
             }
          },
-         "location" : {
-            "latitude" : "44.81892",
-            "longitude" : "20.45998",
-            "time_zone" : "Europe/Belgrade"
-         },
          "registered_country" : {
             "geoname_id" : 6290252,
             "iso_code" : "RS",
@@ -6152,11 +5571,6 @@
                "ru" : "Норвегия",
                "zh-CN" : "挪威"
             }
-         },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "10",
-            "time_zone" : "Europe/Oslo"
          },
          "registered_country" : {
             "geoname_id" : 3144096,
@@ -6204,10 +5618,6 @@
                "zh-CN" : "俄罗斯"
             }
          },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
-         },
          "registered_country" : {
             "geoname_id" : 2017370,
             "iso_code" : "RU",
@@ -6253,11 +5663,6 @@
                "ru" : "Франция",
                "zh-CN" : "法国"
             }
-         },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "2",
-            "time_zone" : "Europe/Paris"
          },
          "registered_country" : {
             "geoname_id" : 3017382,
@@ -6305,10 +5710,6 @@
                "zh-CN" : "俄罗斯"
             }
          },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
-         },
          "registered_country" : {
             "geoname_id" : 2017370,
             "iso_code" : "RU",
@@ -6354,11 +5755,6 @@
                "ru" : "Франция",
                "zh-CN" : "法国"
             }
-         },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "2",
-            "time_zone" : "Europe/Paris"
          },
          "registered_country" : {
             "geoname_id" : 3017382,
@@ -6406,11 +5802,6 @@
                "zh-CN" : "约旦"
             }
          },
-         "location" : {
-            "latitude" : "31",
-            "longitude" : "36",
-            "time_zone" : "Asia/Amman"
-         },
          "registered_country" : {
             "geoname_id" : 248816,
             "iso_code" : "JO",
@@ -6456,10 +5847,6 @@
                "ru" : "Россия",
                "zh-CN" : "俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
          },
          "registered_country" : {
             "geoname_id" : 2017370,
@@ -6507,11 +5894,6 @@
                "zh-CN" : "阿拉伯利比亚民众国"
             }
          },
-         "location" : {
-            "latitude" : "28",
-            "longitude" : "17",
-            "time_zone" : "Africa/Tripoli"
-         },
          "registered_country" : {
             "geoname_id" : 2215636,
             "iso_code" : "LY",
@@ -6557,11 +5939,6 @@
                "ru" : "Германия",
                "zh-CN" : "德国"
             }
-         },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
          },
          "registered_country" : {
             "geoname_id" : 2921044,
@@ -6609,11 +5986,6 @@
                "zh-CN" : "土耳其"
             }
          },
-         "location" : {
-            "latitude" : "39.05901",
-            "longitude" : "34.91155",
-            "time_zone" : "Europe/Istanbul"
-         },
          "registered_country" : {
             "geoname_id" : 298795,
             "iso_code" : "TR",
@@ -6659,11 +6031,6 @@
                "ru" : "Польша",
                "zh-CN" : "波兰"
             }
-         },
-         "location" : {
-            "latitude" : "52",
-            "longitude" : "20",
-            "time_zone" : "Europe/Warsaw"
          },
          "registered_country" : {
             "geoname_id" : 798544,
@@ -6711,11 +6078,6 @@
                "zh-CN" : "德国"
             }
          },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
-         },
          "registered_country" : {
             "geoname_id" : 2921044,
             "iso_code" : "DE",
@@ -6761,10 +6123,6 @@
                "ru" : "Россия",
                "zh-CN" : "俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
          },
          "registered_country" : {
             "geoname_id" : 2017370,
@@ -6812,10 +6170,6 @@
                "zh-CN" : "俄罗斯"
             }
          },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
-         },
          "registered_country" : {
             "geoname_id" : 2017370,
             "iso_code" : "RU",
@@ -6861,11 +6215,6 @@
                "ru" : "Ирландия",
                "zh-CN" : "爱尔兰"
             }
-         },
-         "location" : {
-            "latitude" : "53",
-            "longitude" : "-8",
-            "time_zone" : "Europe/Dublin"
          },
          "registered_country" : {
             "geoname_id" : 2963597,
@@ -6913,11 +6262,6 @@
                "zh-CN" : "罗马尼亚"
             }
          },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "25",
-            "time_zone" : "Europe/Bucharest"
-         },
          "registered_country" : {
             "geoname_id" : 798549,
             "iso_code" : "RO",
@@ -6963,11 +6307,6 @@
                "ru" : "Израиль",
                "zh-CN" : "以色列"
             }
-         },
-         "location" : {
-            "latitude" : "31.5",
-            "longitude" : "34.75",
-            "time_zone" : "Asia/Jerusalem"
          },
          "registered_country" : {
             "geoname_id" : 294640,
@@ -7015,11 +6354,6 @@
                "zh-CN" : "瑞典"
             }
          },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "15",
-            "time_zone" : "Europe/Stockholm"
-         },
          "registered_country" : {
             "geoname_id" : 2661886,
             "iso_code" : "SE",
@@ -7065,11 +6399,6 @@
                "ru" : "Швейцария",
                "zh-CN" : "瑞士"
             }
-         },
-         "location" : {
-            "latitude" : "47.00016",
-            "longitude" : "8.01427",
-            "time_zone" : "Europe/Zurich"
          },
          "registered_country" : {
             "geoname_id" : 2658434,
@@ -7117,11 +6446,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 2635167,
             "iso_code" : "GB",
@@ -7167,11 +6491,6 @@
                "ru" : "Польша",
                "zh-CN" : "波兰"
             }
-         },
-         "location" : {
-            "latitude" : "52",
-            "longitude" : "20",
-            "time_zone" : "Europe/Warsaw"
          },
          "registered_country" : {
             "geoname_id" : 798544,
@@ -7219,11 +6538,6 @@
                "zh-CN" : "波兰"
             }
          },
-         "location" : {
-            "latitude" : "52",
-            "longitude" : "20",
-            "time_zone" : "Europe/Warsaw"
-         },
          "registered_country" : {
             "geoname_id" : 798544,
             "iso_code" : "PL",
@@ -7269,10 +6583,6 @@
                "ru" : "Россия",
                "zh-CN" : "俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
          },
          "registered_country" : {
             "geoname_id" : 2017370,
@@ -7320,11 +6630,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 2635167,
             "iso_code" : "GB",
@@ -7370,10 +6675,6 @@
                "ru" : "Россия",
                "zh-CN" : "俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
          },
          "registered_country" : {
             "geoname_id" : 2017370,
@@ -7421,11 +6722,6 @@
                "zh-CN" : "法国"
             }
          },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "2",
-            "time_zone" : "Europe/Paris"
-         },
          "registered_country" : {
             "geoname_id" : 3017382,
             "iso_code" : "FR",
@@ -7472,11 +6768,6 @@
                "zh-CN" : "法国"
             }
          },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "2",
-            "time_zone" : "Europe/Paris"
-         },
          "registered_country" : {
             "geoname_id" : 3017382,
             "iso_code" : "FR",
@@ -7522,10 +6813,6 @@
                "ru" : "Россия",
                "zh-CN" : "俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
          },
          "registered_country" : {
             "geoname_id" : 2017370,
@@ -7596,11 +6883,6 @@
                "zh-CN" : "阿塞拜疆"
             }
          },
-         "location" : {
-            "latitude" : "40.5",
-            "longitude" : "47.5",
-            "time_zone" : "Asia/Baku"
-         },
          "registered_country" : {
             "geoname_id" : 587116,
             "iso_code" : "AZ",
@@ -7646,11 +6928,6 @@
                "ru" : "Норвегия",
                "zh-CN" : "挪威"
             }
-         },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "10",
-            "time_zone" : "Europe/Oslo"
          },
          "registered_country" : {
             "geoname_id" : 3144096,
@@ -7698,11 +6975,6 @@
                "zh-CN" : "土耳其"
             }
          },
-         "location" : {
-            "latitude" : "39.05901",
-            "longitude" : "34.91155",
-            "time_zone" : "Europe/Istanbul"
-         },
          "registered_country" : {
             "geoname_id" : 298795,
             "iso_code" : "TR",
@@ -7748,11 +7020,6 @@
                "ru" : "Германия",
                "zh-CN" : "德国"
             }
-         },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
          },
          "registered_country" : {
             "geoname_id" : 2921044,
@@ -7800,11 +7067,6 @@
                "zh-CN" : "沙特阿拉伯"
             }
          },
-         "location" : {
-            "latitude" : "25",
-            "longitude" : "45",
-            "time_zone" : "Asia/Riyadh"
-         },
          "registered_country" : {
             "geoname_id" : 102358,
             "iso_code" : "SA",
@@ -7850,10 +7112,6 @@
                "ru" : "Украина",
                "zh-CN" : "乌克兰"
             }
-         },
-         "location" : {
-            "latitude" : "49",
-            "longitude" : "32"
          },
          "registered_country" : {
             "geoname_id" : 690791,
@@ -7901,10 +7159,6 @@
                "zh-CN" : "俄罗斯"
             }
          },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
-         },
          "registered_country" : {
             "geoname_id" : 2017370,
             "iso_code" : "RU",
@@ -7950,11 +7204,6 @@
                "ru" : "Нидерланды",
                "zh-CN" : "荷兰"
             }
-         },
-         "location" : {
-            "latitude" : "52.5",
-            "longitude" : "5.75",
-            "time_zone" : "Europe/Amsterdam"
          },
          "registered_country" : {
             "geoname_id" : 2750405,
@@ -8002,11 +7251,6 @@
                "zh-CN" : "瑞典"
             }
          },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "15",
-            "time_zone" : "Europe/Stockholm"
-         },
          "registered_country" : {
             "geoname_id" : 2661886,
             "iso_code" : "SE",
@@ -8052,10 +7296,6 @@
                "ru" : "Россия",
                "zh-CN" : "俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
          },
          "registered_country" : {
             "geoname_id" : 2017370,
@@ -8103,10 +7343,6 @@
                "zh-CN" : "俄罗斯"
             }
          },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
-         },
          "registered_country" : {
             "geoname_id" : 2017370,
             "iso_code" : "RU",
@@ -8152,11 +7388,6 @@
                "ru" : "Турция",
                "zh-CN" : "土耳其"
             }
-         },
-         "location" : {
-            "latitude" : "39.05901",
-            "longitude" : "34.91155",
-            "time_zone" : "Europe/Istanbul"
          },
          "registered_country" : {
             "geoname_id" : 298795,
@@ -8204,10 +7435,6 @@
                "zh-CN" : "俄罗斯"
             }
          },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
-         },
          "registered_country" : {
             "geoname_id" : 2017370,
             "iso_code" : "RU",
@@ -8253,11 +7480,6 @@
                "ru" : "Чешская Республика",
                "zh-CN" : "捷克共和国"
             }
-         },
-         "location" : {
-            "latitude" : "49.75",
-            "longitude" : "15",
-            "time_zone" : "Europe/Prague"
          },
          "registered_country" : {
             "geoname_id" : 3077311,
@@ -8305,11 +7527,6 @@
                "zh-CN" : "巴林"
             }
          },
-         "location" : {
-            "latitude" : "26",
-            "longitude" : "50.5",
-            "time_zone" : "Asia/Bahrain"
-         },
          "registered_country" : {
             "geoname_id" : 290291,
             "iso_code" : "BH",
@@ -8355,10 +7572,6 @@
                "ru" : "Украина",
                "zh-CN" : "乌克兰"
             }
-         },
-         "location" : {
-            "latitude" : "49",
-            "longitude" : "32"
          },
          "registered_country" : {
             "geoname_id" : 690791,
@@ -8406,11 +7619,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 2635167,
             "iso_code" : "GB",
@@ -8456,11 +7664,6 @@
                "ru" : "Иордания",
                "zh-CN" : "约旦"
             }
-         },
-         "location" : {
-            "latitude" : "31",
-            "longitude" : "36",
-            "time_zone" : "Asia/Amman"
          },
          "registered_country" : {
             "geoname_id" : 248816,
@@ -8508,11 +7711,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 2635167,
             "iso_code" : "GB",
@@ -8558,11 +7756,6 @@
                "ru" : "Германия",
                "zh-CN" : "德国"
             }
-         },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
          },
          "registered_country" : {
             "geoname_id" : 2921044,
@@ -8610,11 +7803,6 @@
                "zh-CN" : "法国"
             }
          },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "2",
-            "time_zone" : "Europe/Paris"
-         },
          "registered_country" : {
             "geoname_id" : 3017382,
             "iso_code" : "FR",
@@ -8660,10 +7848,6 @@
                "ru" : "Украина",
                "zh-CN" : "乌克兰"
             }
-         },
-         "location" : {
-            "latitude" : "49",
-            "longitude" : "32"
          },
          "registered_country" : {
             "geoname_id" : 690791,
@@ -8711,11 +7895,6 @@
                "zh-CN" : "德国"
             }
          },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
-         },
          "registered_country" : {
             "geoname_id" : 2921044,
             "iso_code" : "DE",
@@ -8761,11 +7940,6 @@
                "ru" : "Иран",
                "zh-CN" : "伊朗伊斯兰共和国"
             }
-         },
-         "location" : {
-            "latitude" : "32",
-            "longitude" : "53",
-            "time_zone" : "Asia/Tehran"
          },
          "registered_country" : {
             "geoname_id" : 130758,
@@ -8813,11 +7987,6 @@
                "zh-CN" : "法国"
             }
          },
-         "location" : {
-            "latitude" : "46",
-            "longitude" : "2",
-            "time_zone" : "Europe/Paris"
-         },
          "registered_country" : {
             "geoname_id" : 3017382,
             "iso_code" : "FR",
@@ -8863,10 +8032,6 @@
                "ru" : "Россия",
                "zh-CN" : "俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
          },
          "registered_country" : {
             "geoname_id" : 2017370,
@@ -8914,11 +8079,6 @@
                "zh-CN" : "挪威"
             }
          },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "10",
-            "time_zone" : "Europe/Oslo"
-         },
          "registered_country" : {
             "geoname_id" : 3144096,
             "iso_code" : "NO",
@@ -8964,11 +8124,6 @@
                "ru" : "Германия",
                "zh-CN" : "德国"
             }
-         },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
          },
          "registered_country" : {
             "geoname_id" : 2921044,
@@ -9016,11 +8171,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 2635167,
             "iso_code" : "GB",
@@ -9066,11 +8216,6 @@
                "ru" : "Польша",
                "zh-CN" : "波兰"
             }
-         },
-         "location" : {
-            "latitude" : "52",
-            "longitude" : "20",
-            "time_zone" : "Europe/Warsaw"
          },
          "registered_country" : {
             "geoname_id" : 798544,
@@ -9118,11 +8263,6 @@
                "zh-CN" : "阿拉伯联合酋长国"
             }
          },
-         "location" : {
-            "latitude" : "24",
-            "longitude" : "54",
-            "time_zone" : "Asia/Dubai"
-         },
          "registered_country" : {
             "geoname_id" : 290557,
             "iso_code" : "AE",
@@ -9168,11 +8308,6 @@
                "ru" : "Великобритания",
                "zh-CN" : "英国"
             }
-         },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
          },
          "registered_country" : {
             "geoname_id" : 2635167,
@@ -9220,11 +8355,6 @@
                "zh-CN" : "挪威"
             }
          },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "10",
-            "time_zone" : "Europe/Oslo"
-         },
          "registered_country" : {
             "geoname_id" : 3144096,
             "iso_code" : "NO",
@@ -9270,10 +8400,6 @@
                "ru" : "Испания",
                "zh-CN" : "西班牙"
             }
-         },
-         "location" : {
-            "latitude" : "40",
-            "longitude" : "-4"
          },
          "registered_country" : {
             "geoname_id" : 2510769,
@@ -9321,10 +8447,6 @@
                "zh-CN" : "俄罗斯"
             }
          },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
-         },
          "registered_country" : {
             "geoname_id" : 2017370,
             "iso_code" : "RU",
@@ -9370,11 +8492,6 @@
                "ru" : "Великобритания",
                "zh-CN" : "英国"
             }
-         },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
          },
          "registered_country" : {
             "geoname_id" : 2635167,
@@ -9422,10 +8539,6 @@
                "zh-CN" : "俄罗斯"
             }
          },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
-         },
          "registered_country" : {
             "geoname_id" : 2017370,
             "iso_code" : "RU",
@@ -9471,11 +8584,6 @@
                "ru" : "Армения",
                "zh-CN" : "亚美尼亚"
             }
-         },
-         "location" : {
-            "latitude" : "40",
-            "longitude" : "45",
-            "time_zone" : "Asia/Yerevan"
          },
          "registered_country" : {
             "geoname_id" : 174982,
@@ -9523,11 +8631,6 @@
                "zh-CN" : "荷兰"
             }
          },
-         "location" : {
-            "latitude" : "52.5",
-            "longitude" : "5.75",
-            "time_zone" : "Europe/Amsterdam"
-         },
          "registered_country" : {
             "geoname_id" : 2750405,
             "iso_code" : "NL",
@@ -9573,11 +8676,6 @@
                "ru" : "Нидерланды",
                "zh-CN" : "荷兰"
             }
-         },
-         "location" : {
-            "latitude" : "52.5",
-            "longitude" : "5.75",
-            "time_zone" : "Europe/Amsterdam"
          },
          "registered_country" : {
             "geoname_id" : 2750405,
@@ -9625,11 +8723,6 @@
                "zh-CN" : "荷兰"
             }
          },
-         "location" : {
-            "latitude" : "52.5",
-            "longitude" : "5.75",
-            "time_zone" : "Europe/Amsterdam"
-         },
          "registered_country" : {
             "geoname_id" : 2750405,
             "iso_code" : "NL",
@@ -9675,10 +8768,6 @@
                "ru" : "Россия",
                "zh-CN" : "俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
          },
          "registered_country" : {
             "geoname_id" : 2017370,
@@ -9726,10 +8815,6 @@
                "zh-CN" : "俄罗斯"
             }
          },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
-         },
          "registered_country" : {
             "geoname_id" : 2017370,
             "iso_code" : "RU",
@@ -9775,11 +8860,6 @@
                "ru" : "Ливан",
                "zh-CN" : "黎巴嫩"
             }
-         },
-         "location" : {
-            "latitude" : "33.83333",
-            "longitude" : "35.83333",
-            "time_zone" : "Asia/Beirut"
          },
          "registered_country" : {
             "geoname_id" : 272103,
@@ -9827,11 +8907,6 @@
                "zh-CN" : "波兰"
             }
          },
-         "location" : {
-            "latitude" : "52",
-            "longitude" : "20",
-            "time_zone" : "Europe/Warsaw"
-         },
          "registered_country" : {
             "geoname_id" : 798544,
             "iso_code" : "PL",
@@ -9877,11 +8952,6 @@
                "ru" : "Швеция",
                "zh-CN" : "瑞典"
             }
-         },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "15",
-            "time_zone" : "Europe/Stockholm"
          },
          "registered_country" : {
             "geoname_id" : 2661886,
@@ -9929,11 +8999,6 @@
                "zh-CN" : "波兰"
             }
          },
-         "location" : {
-            "latitude" : "52",
-            "longitude" : "20",
-            "time_zone" : "Europe/Warsaw"
-         },
          "registered_country" : {
             "geoname_id" : 798544,
             "iso_code" : "PL",
@@ -9979,10 +9044,6 @@
                "ru" : "Россия",
                "zh-CN" : "俄罗斯"
             }
-         },
-         "location" : {
-            "latitude" : "60",
-            "longitude" : "100"
          },
          "registered_country" : {
             "geoname_id" : 2017370,
@@ -10030,11 +9091,6 @@
                "zh-CN" : "荷兰"
             }
          },
-         "location" : {
-            "latitude" : "52.5",
-            "longitude" : "5.75",
-            "time_zone" : "Europe/Amsterdam"
-         },
          "registered_country" : {
             "geoname_id" : 2750405,
             "iso_code" : "NL",
@@ -10080,11 +9136,6 @@
                "ru" : "Германия",
                "zh-CN" : "德国"
             }
-         },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
          },
          "registered_country" : {
             "geoname_id" : 2921044,
@@ -10132,11 +9183,6 @@
                "zh-CN" : "波兰"
             }
          },
-         "location" : {
-            "latitude" : "52",
-            "longitude" : "20",
-            "time_zone" : "Europe/Warsaw"
-         },
          "registered_country" : {
             "geoname_id" : 798544,
             "iso_code" : "PL",
@@ -10182,11 +9228,6 @@
                "ru" : "Иран",
                "zh-CN" : "伊朗伊斯兰共和国"
             }
-         },
-         "location" : {
-            "latitude" : "32",
-            "longitude" : "53",
-            "time_zone" : "Asia/Tehran"
          },
          "registered_country" : {
             "geoname_id" : 130758,
@@ -10234,11 +9275,6 @@
                "zh-CN" : "匈牙利"
             }
          },
-         "location" : {
-            "latitude" : "47",
-            "longitude" : "20",
-            "time_zone" : "Europe/Budapest"
-         },
          "registered_country" : {
             "geoname_id" : 719819,
             "iso_code" : "HU",
@@ -10284,11 +9320,6 @@
                "ru" : "Великобритания",
                "zh-CN" : "英国"
             }
-         },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
          },
          "registered_country" : {
             "geoname_id" : 2635167,
@@ -10336,11 +9367,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 2635167,
             "iso_code" : "GB",
@@ -10386,11 +9412,6 @@
                "ru" : "Саудовская Аравия",
                "zh-CN" : "沙特阿拉伯"
             }
-         },
-         "location" : {
-            "latitude" : "25",
-            "longitude" : "45",
-            "time_zone" : "Asia/Riyadh"
          },
          "registered_country" : {
             "geoname_id" : 102358,
@@ -10438,11 +9459,6 @@
                "zh-CN" : "土耳其"
             }
          },
-         "location" : {
-            "latitude" : "39.05901",
-            "longitude" : "34.91155",
-            "time_zone" : "Europe/Istanbul"
-         },
          "registered_country" : {
             "geoname_id" : 298795,
             "iso_code" : "TR",
@@ -10488,11 +9504,6 @@
                "ru" : "Германия",
                "zh-CN" : "德国"
             }
-         },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
          },
          "registered_country" : {
             "geoname_id" : 2921044,
@@ -10540,11 +9551,6 @@
                "zh-CN" : "波兰"
             }
          },
-         "location" : {
-            "latitude" : "52",
-            "longitude" : "20",
-            "time_zone" : "Europe/Warsaw"
-         },
          "registered_country" : {
             "geoname_id" : 798544,
             "iso_code" : "PL",
@@ -10590,11 +9596,6 @@
                "ru" : "Германия",
                "zh-CN" : "德国"
             }
-         },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
          },
          "registered_country" : {
             "geoname_id" : 2921044,
@@ -10642,11 +9643,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 2635167,
             "iso_code" : "GB",
@@ -10692,11 +9688,6 @@
                "ru" : "Италия",
                "zh-CN" : "意大利"
             }
-         },
-         "location" : {
-            "latitude" : "42.83333",
-            "longitude" : "12.83333",
-            "time_zone" : "Europe/Rome"
          },
          "registered_country" : {
             "geoname_id" : 3175395,
@@ -10744,11 +9735,6 @@
                "zh-CN" : "波兰"
             }
          },
-         "location" : {
-            "latitude" : "52",
-            "longitude" : "20",
-            "time_zone" : "Europe/Warsaw"
-         },
          "registered_country" : {
             "geoname_id" : 798544,
             "iso_code" : "PL",
@@ -10794,11 +9780,6 @@
                "ru" : "Швеция",
                "zh-CN" : "瑞典"
             }
-         },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "15",
-            "time_zone" : "Europe/Stockholm"
          },
          "registered_country" : {
             "geoname_id" : 2661886,
@@ -10846,11 +9827,6 @@
                "zh-CN" : "丹麦"
             }
          },
-         "location" : {
-            "latitude" : "56",
-            "longitude" : "10",
-            "time_zone" : "Europe/Copenhagen"
-         },
          "registered_country" : {
             "geoname_id" : 2623032,
             "iso_code" : "DK",
@@ -10896,11 +9872,6 @@
                "ru" : "Норвегия",
                "zh-CN" : "挪威"
             }
-         },
-         "location" : {
-            "latitude" : "62",
-            "longitude" : "10",
-            "time_zone" : "Europe/Oslo"
          },
          "registered_country" : {
             "geoname_id" : 3144096,
@@ -10948,11 +9919,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 2635167,
             "iso_code" : "GB",
@@ -10998,11 +9964,6 @@
                "ru" : "Германия",
                "zh-CN" : "德国"
             }
-         },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
          },
          "registered_country" : {
             "geoname_id" : 2921044,
@@ -11050,11 +10011,6 @@
                "zh-CN" : "意大利"
             }
          },
-         "location" : {
-            "latitude" : "42.83333",
-            "longitude" : "12.83333",
-            "time_zone" : "Europe/Rome"
-         },
          "registered_country" : {
             "geoname_id" : 3175395,
             "iso_code" : "IT",
@@ -11100,11 +10056,6 @@
                "ru" : "Дания",
                "zh-CN" : "丹麦"
             }
-         },
-         "location" : {
-            "latitude" : "56",
-            "longitude" : "10",
-            "time_zone" : "Europe/Copenhagen"
          },
          "registered_country" : {
             "geoname_id" : 2623032,
@@ -11152,11 +10103,6 @@
                "zh-CN" : "奥地利"
             }
          },
-         "location" : {
-            "latitude" : "47.33333",
-            "longitude" : "13.33333",
-            "time_zone" : "Europe/Vienna"
-         },
          "registered_country" : {
             "geoname_id" : 2782113,
             "iso_code" : "AT",
@@ -11202,11 +10148,6 @@
                "ru" : "Нидерланды",
                "zh-CN" : "荷兰"
             }
-         },
-         "location" : {
-            "latitude" : "52.5",
-            "longitude" : "5.75",
-            "time_zone" : "Europe/Amsterdam"
          },
          "registered_country" : {
             "geoname_id" : 2750405,
@@ -11254,11 +10195,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 2635167,
             "iso_code" : "GB",
@@ -11304,11 +10240,6 @@
                "ru" : "Италия",
                "zh-CN" : "意大利"
             }
-         },
-         "location" : {
-            "latitude" : "42.83333",
-            "longitude" : "12.83333",
-            "time_zone" : "Europe/Rome"
          },
          "registered_country" : {
             "geoname_id" : 3175395,
@@ -11356,11 +10287,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "54.75844",
-            "longitude" : "-2.69531",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 2635167,
             "iso_code" : "GB",
@@ -11406,11 +10332,6 @@
                "ru" : "Италия",
                "zh-CN" : "意大利"
             }
-         },
-         "location" : {
-            "latitude" : "42.83333",
-            "longitude" : "12.83333",
-            "time_zone" : "Europe/Rome"
          },
          "registered_country" : {
             "geoname_id" : 3175395,
@@ -11458,11 +10379,6 @@
                "zh-CN" : "曼岛"
             }
          },
-         "location" : {
-            "latitude" : "54.25",
-            "longitude" : "-4.5",
-            "time_zone" : "Europe/Isle_of_Man"
-         },
          "registered_country" : {
             "geoname_id" : 3042225,
             "iso_code" : "IM",
@@ -11509,11 +10425,6 @@
                "zh-CN" : "德国"
             }
          },
-         "location" : {
-            "latitude" : "51.5",
-            "longitude" : "10.5",
-            "time_zone" : "Europe/Berlin"
-         },
          "registered_country" : {
             "geoname_id" : 2921044,
             "iso_code" : "DE",
@@ -11559,11 +10470,6 @@
                "ru" : "Гибралтар"
             }
          },
-         "location" : {
-            "latitude" : "36.13333",
-            "longitude" : "-5.35",
-            "time_zone" : "Europe/Gibraltar"
-         },
          "registered_country" : {
             "geoname_id" : 2411586,
             "iso_code" : "GI",
@@ -11581,12 +10487,6 @@
    },
    {
       "::2.125.160.216/125" : {
-         "city" : {
-            "geoname_id" : "2655045",
-            "names" : {
-               "en" : "Boxford"
-            }
-         },
          "continent" : {
             "code" : "EU",
             "geoname_id" : 6255148,
@@ -11614,11 +10514,6 @@
                "ru" : "Великобритания",
                "zh-CN" : "英国"
             }
-         },
-         "location" : {
-            "latitude" : "51.7500",
-            "longitude" : "-1.2500",
-            "time_zone" : "Europe/London"
          },
          "postal" : {
             "code" : "OX1"
@@ -11636,44 +10531,11 @@
                "ru" : "Франция",
                "zh-CN" : "法国"
             }
-         },
-         "subdivisions" : [
-            {
-               "geoname_id" : 6269131,
-               "iso_code" : "ENG",
-               "names" : {
-                  "en" : "England",
-                  "es" : "Inglaterra",
-                  "fr" : "Angleterre",
-                  "pt-BR" : "Inglaterra"
-               }
-            },
-            {
-               "geoname_id" : 3333217,
-               "iso_code" : "WBK",
-               "names" : {
-                  "en" : "West Berkshire",
-                  "ru" : "Западный Беркшир",
-                  "zh-CN" : "西伯克郡"
-               }
-            }
-         ]
+         }
       }
    },
    {
       "::81.2.69.142/127" : {
-         "city" : {
-            "geoname_id" : "2643743",
-            "names" : {
-               "de" : "London",
-               "en" : "London",
-               "es" : "Londres",
-               "fr" : "Londres",
-               "ja" : "ロンドン",
-               "pt-BR" : "Londres",
-               "ru" : "Лондон"
-            }
-         },
          "continent" : {
             "code" : "EU",
             "geoname_id" : 6255148,
@@ -11702,11 +10564,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "51.5142",
-            "longitude" : "-0.0931",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 6252001,
             "iso_code" : "US",
@@ -11720,35 +10577,11 @@
                "ru" : "США",
                "zh-CN" : "美国"
             }
-         },
-         "subdivisions" : [
-            {
-               "geoname_id" : 6269131,
-               "iso_code" : "ENG",
-               "names" : {
-                  "en" : "England",
-                  "es" : "Inglaterra",
-                  "fr" : "Angleterre",
-                  "pt-BR" : "Inglaterra"
-               }
-            }
-         ]
+         }
       }
    },
    {
       "::81.2.69.144/124" : {
-         "city" : {
-            "geoname_id" : "2643743",
-            "names" : {
-               "de" : "London",
-               "en" : "London",
-               "es" : "Londres",
-               "fr" : "Londres",
-               "ja" : "ロンドン",
-               "pt-BR" : "Londres",
-               "ru" : "Лондон"
-            }
-         },
          "continent" : {
             "code" : "EU",
             "geoname_id" : 6255148,
@@ -11777,11 +10610,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "51.5142",
-            "longitude" : "-0.0931",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 6252001,
             "iso_code" : "US",
@@ -11795,35 +10623,11 @@
                "ru" : "США",
                "zh-CN" : "美国"
             }
-         },
-         "subdivisions" : [
-            {
-               "geoname_id" : 6269131,
-               "iso_code" : "ENG",
-               "names" : {
-                  "en" : "England",
-                  "es" : "Inglaterra",
-                  "fr" : "Angleterre",
-                  "pt-BR" : "Inglaterra"
-               }
-            }
-         ]
+         }
       }
    },
    {
       "::81.2.69.160/123" : {
-         "city" : {
-            "geoname_id" : "2643743",
-            "names" : {
-               "de" : "London",
-               "en" : "London",
-               "es" : "Londres",
-               "fr" : "Londres",
-               "ja" : "ロンドン",
-               "pt-BR" : "Londres",
-               "ru" : "Лондон"
-            }
-         },
          "continent" : {
             "code" : "EU",
             "geoname_id" : 6255148,
@@ -11852,11 +10656,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "51.5142",
-            "longitude" : "-0.0931",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 6252001,
             "iso_code" : "US",
@@ -11870,35 +10669,11 @@
                "ru" : "США",
                "zh-CN" : "美国"
             }
-         },
-         "subdivisions" : [
-            {
-               "geoname_id" : 6269131,
-               "iso_code" : "ENG",
-               "names" : {
-                  "en" : "England",
-                  "es" : "Inglaterra",
-                  "fr" : "Angleterre",
-                  "pt-BR" : "Inglaterra"
-               }
-            }
-         ]
+         }
       }
    },
    {
       "::81.2.69.192/124" : {
-         "city" : {
-            "geoname_id" : "2643743",
-            "names" : {
-               "de" : "London",
-               "en" : "London",
-               "es" : "Londres",
-               "fr" : "Londres",
-               "ja" : "ロンドン",
-               "pt-BR" : "Londres",
-               "ru" : "Лондон"
-            }
-         },
          "continent" : {
             "code" : "EU",
             "geoname_id" : 6255148,
@@ -11927,11 +10702,6 @@
                "zh-CN" : "英国"
             }
          },
-         "location" : {
-            "latitude" : "51.5142",
-            "longitude" : "-0.0931",
-            "time_zone" : "Europe/London"
-         },
          "registered_country" : {
             "geoname_id" : 6252001,
             "iso_code" : "US",
@@ -11945,30 +10715,11 @@
                "ru" : "США",
                "zh-CN" : "美国"
             }
-         },
-         "subdivisions" : [
-            {
-               "geoname_id" : 6269131,
-               "iso_code" : "ENG",
-               "names" : {
-                  "en" : "England",
-                  "es" : "Inglaterra",
-                  "fr" : "Angleterre",
-                  "pt-BR" : "Inglaterra"
-               }
-            }
-         ]
+         }
       }
    },
    {
       "::216.160.83.56/125" : {
-         "city" : {
-            "geoname_id" : "5803556",
-            "names" : {
-               "en" : "Milton",
-               "ru" : "Мильтон"
-            }
-         },
          "continent" : {
             "code" : "NA",
             "geoname_id" : 6255149,
@@ -11997,12 +10748,6 @@
                "zh-CN" : "美国"
             }
          },
-         "location" : {
-            "latitude" : "47.2513",
-            "longitude" : "-122.3149",
-            "metro_code" : "819",
-            "time_zone" : "America/Los_Angeles"
-         },
          "postal" : {
             "code" : "98354"
          },
@@ -12019,35 +10764,11 @@
                "ru" : "Великобритания",
                "zh-CN" : "英国"
             }
-         },
-         "subdivisions" : [
-            {
-               "geoname_id" : 5815135,
-               "iso_code" : "WA",
-               "names" : {
-                  "en" : "Washington",
-                  "es" : "Washington",
-                  "fr" : "État de Washington",
-                  "ja" : "ワシントン州",
-                  "ru" : "Вашингтон",
-                  "zh-CN" : "华盛顿州"
-               }
-            }
-         ]
+         }
       }
    },
    {
       "::89.160.20.112/124" : {
-         "city" : {
-            "geoname_id" : "2694762",
-            "names" : {
-               "de" : "Linköping",
-               "en" : "Linköping",
-               "fr" : "Linköping",
-               "ja" : "リンシェーピング",
-               "zh-CN" : "林雪平"
-            }
-         },
          "continent" : {
             "code" : "EU",
             "geoname_id" : 6255148,
@@ -12076,11 +10797,6 @@
                "zh-CN" : "瑞典"
             }
          },
-         "location" : {
-            "latitude" : "58.4167",
-            "longitude" : "15.6167",
-            "time_zone" : "Europe/Stockholm"
-         },
          "registered_country" : {
             "geoname_id" : 2921044,
             "iso_code" : "DE",
@@ -12094,31 +10810,11 @@
                "ru" : "Германия",
                "zh-CN" : "德国"
             }
-         },
-         "subdivisions" : [
-            {
-               "geoname_id" : 2685867,
-               "iso_code" : "E",
-               "names" : {
-                  "en" : "Östergötland County",
-                  "fr" : "Comté d'Östergötland"
-               }
-            }
-         ]
+         }
       }
    },
    {
       "::89.160.20.128/121" : {
-         "city" : {
-            "geoname_id" : "2694762",
-            "names" : {
-               "de" : "Linköping",
-               "en" : "Linköping",
-               "fr" : "Linköping",
-               "ja" : "リンシェーピング",
-               "zh-CN" : "林雪平"
-            }
-         },
          "continent" : {
             "code" : "EU",
             "geoname_id" : 6255148,
@@ -12147,11 +10843,6 @@
                "zh-CN" : "瑞典"
             }
          },
-         "location" : {
-            "latitude" : "58.4167",
-            "longitude" : "15.6167",
-            "time_zone" : "Europe/Stockholm"
-         },
          "registered_country" : {
             "geoname_id" : 2921044,
             "iso_code" : "DE",
@@ -12165,17 +10856,7 @@
                "ru" : "Германия",
                "zh-CN" : "德国"
             }
-         },
-         "subdivisions" : [
-            {
-               "geoname_id" : 2685867,
-               "iso_code" : "E",
-               "names" : {
-                  "en" : "Östergötland County",
-                  "fr" : "Comté d'Östergötland"
-               }
-            }
-         ]
+         }
       }
    },
    {
@@ -12207,11 +10888,6 @@
                "ru" : "Бутан",
                "zh-CN" : "不丹"
             }
-         },
-         "location" : {
-            "latitude" : "27.5000",
-            "longitude" : "90.5000",
-            "time_zone" : "Asia/Thimphu"
          },
          "registered_country" : {
             "geoname_id" : 798549,
@@ -12261,11 +10937,6 @@
                "ru" : "Филиппины",
                "zh-CN" : "菲律宾"
             }
-         },
-         "location" : {
-            "latitude" : "13",
-            "longitude" : "122",
-            "time_zone" : "Asia/Manila"
          },
          "postal" : {
             "code" : "34021"

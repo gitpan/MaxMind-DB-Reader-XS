@@ -1,0 +1,60 @@
+Checking for MMDB_lookup_string in -lmaxminddb ...
+Checking for maxminddb_config.h ...
+Checking for unsigned __int128 ...
+Checking for compute result of (MMDB_UINT128_IS_BYTE_ARRAY) ...
+compile stage failed - error building test86asQT.o from 'test86asQT.c' at /home/autarch/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/ExtUtils/CBuilder/Base.pm line 175.
+
+test86asQT.c: In function ‘main’:
+test86asQT.c:14:18: error: size of array ‘test_array’ is negative
+       static int test_array [(((long int)(MMDB_UINT128_IS_BYTE_ARRAY)) < 0) ? 1 : -1 ];
+                  ^
+
+failing program is:
+/* defined when library maxminddb is available */
+#define HAVE_LIBMAXMINDDB 1
+/* defined when unsigned __int128 is available */
+#define HAVE_UNSIGNED___INT128 1
+/* defined when maxminddb_config.h is available */
+#define HAVE_MAXMINDDB_CONFIG_H 1
+/* end of conftest.h */
+
+#include <maxminddb_config.h>
+
+  int
+  main ()
+  {
+      static int test_array [(((long int)(MMDB_UINT128_IS_BYTE_ARRAY)) < 0) ? 1 : -1 ];
+  test_array [0] = 0
+;
+    return 0;
+  }
+
+
+compile stage failed - error building testz7X7Xx.o from 'testz7X7Xx.c' at /home/autarch/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/ExtUtils/CBuilder/Base.pm line 175.
+
+testz7X7Xx.c: In function ‘main’:
+testz7X7Xx.c:14:18: error: size of array ‘test_array’ is negative
+       static int test_array [(((long int)(MMDB_UINT128_IS_BYTE_ARRAY)) > 0) ? 1 : -1 ];
+                  ^
+
+failing program is:
+/* defined when library maxminddb is available */
+#define HAVE_LIBMAXMINDDB 1
+/* defined when unsigned __int128 is available */
+#define HAVE_UNSIGNED___INT128 1
+/* defined when maxminddb_config.h is available */
+#define HAVE_MAXMINDDB_CONFIG_H 1
+/* end of conftest.h */
+
+#include <maxminddb_config.h>
+
+  int
+  main ()
+  {
+      static int test_array [(((long int)(MMDB_UINT128_IS_BYTE_ARRAY)) > 0) ? 1 : -1 ];
+  test_array [0] = 0
+;
+    return 0;
+  }
+
+
