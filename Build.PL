@@ -146,12 +146,12 @@ __DATA__
                           'perl' => '5.010000',
                           'strict' => '0',
                           'Math::Int128' => '0',
-                          'MaxMind::DB::Reader' => '0.060001'
+                          'MaxMind::DB::Reader' => '1.000000'
                         },
           'recommends' => {},
           'configure_requires' => {
                                     'Module::Build' => '0.28'
                                   },
-          'dist_version' => '0.070000'
+          'dist_version' => '1.000000'
         };
 

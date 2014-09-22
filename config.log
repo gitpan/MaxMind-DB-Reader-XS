@@ -2,10 +2,10 @@ Checking for MMDB_lookup_string in -lmaxminddb ...
 Checking for maxminddb_config.h ...
 Checking for unsigned __int128 ...
 Checking for compute result of (MMDB_UINT128_IS_BYTE_ARRAY) ...
-compile stage failed - error building test86asQT.o from 'test86asQT.c' at /home/autarch/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/ExtUtils/CBuilder/Base.pm line 175.
+compile stage failed - error building testkf5J27.o from 'testkf5J27.c' at /home/greg/perl5/perlbrew/perls/perl-5.16.2/lib/5.16.3/ExtUtils/CBuilder/Base.pm line 177.
 
-test86asQT.c: In function ‘main’:
-test86asQT.c:14:18: error: size of array ‘test_array’ is negative
+testkf5J27.c: In function ‘main’:
+testkf5J27.c:14:18: error: size of array ‘test_array’ is negative
        static int test_array [(((long int)(MMDB_UINT128_IS_BYTE_ARRAY)) < 0) ? 1 : -1 ];
                   ^
 
@@ -30,10 +30,10 @@ failing program is:
   }
 
 
-compile stage failed - error building testz7X7Xx.o from 'testz7X7Xx.c' at /home/autarch/perl5/perlbrew/perls/perl-5.16.3/lib/site_perl/5.16.3/ExtUtils/CBuilder/Base.pm line 175.
+compile stage failed - error building testKjgdLs.o from 'testKjgdLs.c' at /home/greg/perl5/perlbrew/perls/perl-5.16.2/lib/5.16.3/ExtUtils/CBuilder/Base.pm line 177.
 
-testz7X7Xx.c: In function ‘main’:
-testz7X7Xx.c:14:18: error: size of array ‘test_array’ is negative
+testKjgdLs.c: In function ‘main’:
+testKjgdLs.c:14:18: error: size of array ‘test_array’ is negative
        static int test_array [(((long int)(MMDB_UINT128_IS_BYTE_ARRAY)) > 0) ? 1 : -1 ];
                   ^
 

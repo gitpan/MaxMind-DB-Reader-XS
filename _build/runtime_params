@@ -1,2 +1,6 @@
-do{ my $x = {};
+do{ my $x = {
+  'extra_linker_flags' => [
+    '-L/var/lib/jenkins/local/MaxMind-main-repo/origin__greg__jenkins-test/libgeoip/lib'
+  ]
+};
 $x; }

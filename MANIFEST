@@ -66,11 +66,11 @@ t/MaxMind/DB/Reader-decoder.t
 t/MaxMind/DB/Reader-no-ipv4-search-tree.t
 t/MaxMind/DB/Reader.t
 t/author-leak-check.t
-t/author-no-tabs.t
 t/author-pod-spell.t
 t/lib/Test/MaxMind/DB/Reader.pm
 t/release-cpan-changes.t
 t/release-eol.t
+t/release-no-tabs.t
 t/release-pod-linkcheck.t
 t/release-pod-no404s.t
 t/release-pod-syntax.t

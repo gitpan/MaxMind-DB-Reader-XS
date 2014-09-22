@@ -6,7 +6,7 @@
       "Ran Eilam <reilam@maxmind.com>"
    ],
    "dynamic_config" : 0,
-   "generated_by" : "Dist::Zilla version 5.020, CPAN::Meta::Converter version 2.142060",
+   "generated_by" : "Dist::Zilla version 5.020, CPAN::Meta::Converter version 2.141170",
    "license" : [
       "artistic_2"
    ],
@@ -36,15 +36,14 @@
             "Test::CPAN::Changes" : "0.19",
             "Test::More" : "0",
             "Test::NoTabs" : "0",
-            "Test::Pod" : "1.41",
-            "Test::Spelling" : "0.12"
+            "Test::Pod" : "1.41"
          }
       },
       "runtime" : {
          "requires" : {
             "Math::Int128" : "0",
             "MaxMind::DB::Metadata" : "0",
-            "MaxMind::DB::Reader" : "0.060001",
+            "MaxMind::DB::Reader" : "1.000000",
             "MaxMind::DB::Reader::Role::HasMetadata" : "0",
             "MaxMind::DB::Reader::Role::Reader" : "0",
             "MaxMind::DB::Types" : "0",
@@ -81,7 +80,7 @@
          "web" : "https://github.com/maxmind/MaxMind-DB-Reader-XS"
       }
    },
-   "version" : "0.070000",
+   "version" : "1.000000",
    "x_authority" : "cpan:MAXMIND",
    "x_contributors" : [
       "Greg Oschwald <goschwald@maxmind.com>",
